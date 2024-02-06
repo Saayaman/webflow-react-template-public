@@ -1,0 +1,1 @@
+# A compiled react code should show up
